@@ -1,4 +1,11 @@
 header{
     background-color: orange;
     color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.cabecalho-imagem{
+width: 20%;
 }
